@@ -1,0 +1,19 @@
+ferrari 488
+raggiunge una velocita di 300k/h
+pesa 1400kg
+
+Atac 342
+raggiunge una velocita di 70k/h
+pesa 5000kg
+
+Porsche 911 GT3
+raggiunge una velocita di 300k/h
+pesa 1400kg
+
+Nissan GT-R
+raggiunge una velocita di 350k/h
+pesa 1800kg
+
+F- 16
+raggiunge una velocita di 3890k/h
+pesa 9210kg
